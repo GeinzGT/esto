@@ -1,0 +1,7 @@
+{
+  "name": "warung-nusantara",
+  "version": "1.0.0",
+  "description": "Website pemesanan makanan dengan Midtrans",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
